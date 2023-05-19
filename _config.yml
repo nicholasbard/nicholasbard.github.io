@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nick Bard / Research Website"
+title                    : "Nick Bard"
 title_separator          : "-"
 name                     : &name "Nick Bard"
 description              : &description "Biodiversity informatics"
