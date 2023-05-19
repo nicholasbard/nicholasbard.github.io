@@ -110,8 +110,8 @@ Professional Experience
 
 * 2011-13	Botany Data Assistant Intern	Institute for Natural Resources, Portland, OR
   *	performed data entry for vegetation surveys:
-     * 1.	Wet Meadow Plant Associations, Malheur National Wildlife Refuge, Harney County, Oregon 
-     * 2.	Pine Creek Conservation Area: 2013 Mapping and Monitoring Report
+     * Wet Meadow Plant Associations, Malheur National Wildlife Refuge, Harney County, Oregon 
+     * Pine Creek Conservation Area: 2013 Mapping and Monitoring Report
 
 Skills
 ======
