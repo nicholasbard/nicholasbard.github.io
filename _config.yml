@@ -14,7 +14,7 @@ description              : &description "Biodiversity informatics"
 url                      : "https://nicholasbard.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicholasbard/nicholasbard.github.io"
-teaser                   : "nicholasbard.github.io/images/profile.b.png"
+teaser                   : "images/profile.b.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nick Bard"
-  avatar           : "nicholasbard.github.io/images/profile.b.png"
+  avatar           : "images/profile.b.png"
   bio              : "PhD Candidate at University of British Columbia"
   location         : "Vancouver, BC"
   employer         : "University of British Columbia"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nicholasbard"
+  github           : "nicholasbard"
   google_plus      :
   keybase          :
   instagram        :
