@@ -9,11 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Code"
+    url: "https://github.com/nicholasbard"
     
   - title: "CV"
     url: /cv/
