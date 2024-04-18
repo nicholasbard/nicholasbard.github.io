@@ -36,20 +36,18 @@ Assistantships, Scholarships, and Grants
 * <b>2015</b>	IB Graduate Student Scholarship ($5,000),	University of Colorado Denver
 
 
-Peer Reviewed Publications and Theses
+Peer Reviewed Publications
 ======
 	
-* <b> Bard, N.W.,</b> Miller, C.S., and L.P. Bruederle. 2021. High genomic diversity maintained by Carex scirpoidea subsp. convoluta, a paraphyletic Great Lakes ecotype. Conservation Genetics. (2021). https://doi.org/10.1007/s10592-020-01326-x 
-
-* <b> Bard, N.W.</b> 2018. Population Genomics of a Rare Edaphic Endemic. M.S. Thesis, University of Colorado Denver, Denver, Colorado.
+* <b>Bard, N.W.,</b> Cronk, Q.C.B., Davies, J.D. Fungal endophytes can modulate plant invasion. <i>Biological Reviews.</i> (2024). https://doi.org/10.1111/brv.13085
+* Bruederle, L.P.B., Spencer, A., <b>Bard, N.W.</b>. Noteworthy collections – _Carex scirpoidea_ Lam. (Cyperaceae) in Wisconsin – now you see it ... <i>The Journal of the Torrey Society.</i> (In press).
+* <b> Bard, N.W.,</b> Miller, C.S., and L.P. Bruederle. 2021. High genomic diversity maintained by Carex scirpoidea subsp. convoluta, a paraphyletic Great Lakes ecotype. <i>Conservation Genetics.</i> (2021). https://doi.org/10.1007/s10592-020-01326-x 
 
 Submitted Manuscripts 
 ------
 	
-* <b>Bard, N.W.,</b> Cronk, Q.C.B., Davies, J.D. Fungal endophytes can modulate plant invasion. In revision. <i>Biological Reviews.</i>
-* Bruederle, L.P.B., Spencer, A., <b>Bard, N.W.</b>. Noteworthy collections – _Carex scirpoidea_ Lam. (Cyperaceae) in Wisconsin – now you see it ... In revision. <i>The Journal of the Torrey Society.</i>
 * <b>Bard, N.W.,</b> Davies, J.D., Cronk, Q.C.B. teknonaturalist: A Snakemake pipeline for assessing fungal diversity from plant genome bycatch. Submitted to <i>Molecular Ecology Resources.</i> [teknonaturalist Github repository](https://github.com/nicholasbard/teknonaturalist)
-* Stewart, R.D., <b>Bard, N.W.</b>, Davies, T.J., van der Bank, Michelle. Leveraging machine learning and citizen science data to describe flowering phenology across South Africa. Submitted to <i>Journal of Ecology.</i>
+* Stewart, R.D., <b>Bard, N.W.</b>, Davies, T.J., van der Bank, Michelle. Leveraging machine learning and citizen science data to describe flowering phenology across South Africa. In revision for new submission to <i>Plants, People, Planet.</i>
 
 Oral Presentations
 ======
@@ -152,5 +150,5 @@ Service
 Professional Memberships
 ------
 	
-International Biogeography Society (2023- ), Botanical Society of America (2016-2020), American Society of Plant Taxonomists (2016-2017), Colorado Native Plant Society (2015-2017), Ecological Society of America (2022- )
+Canadian Society for Ecology and Evolution (2024- ), International Biogeography Society (2023- ), Botanical Society of America (2016-2020), American Society of Plant Taxonomists (2016-2017), Colorado Native Plant Society (2015-2017), Ecological Society of America (2022- )
 
