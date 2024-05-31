@@ -1,6 +1,7 @@
 ---
 title: "High genomic diversity maintained by populations of <i>Carex scirpoidea</i> subsp. <i>convoluta</i>, a paraphyletic Great Lakes ecotype"
 collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2021-01-11
 venue: 'Conservation Genetics'
