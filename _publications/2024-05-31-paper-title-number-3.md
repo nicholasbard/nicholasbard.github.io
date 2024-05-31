@@ -1,5 +1,5 @@
 ---
-title: "<i>Carex scirpoidea</i> (Cyperaceae) in Wisconsin—Now you see it…"
+title: "<i>Carex scirpoidea</i> (Cyperaceae) in Wisconsin—Now you see it… "
 collection: publications
 permalink: /publication/2024-05-31-paper-title-number-3
 excerpt: ''
