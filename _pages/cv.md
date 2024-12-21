@@ -38,23 +38,28 @@ Assistantships, Scholarships, and Grants
 
 Peer Reviewed Publications
 ======
-	
-* <b>Bard, N.W.,</b> Cronk, Q.C.B., Davies, J.D. Fungal endophytes can modulate plant invasion. <i>Biological Reviews.</i> (2024). https://doi.org/10.1111/brv.13085
-* Bruederle, L.P.B., Spencer, A., <b>Bard, N.W.</b>. Noteworthy collections – _Carex scirpoidea_ Lam. (Cyperaceae) in Wisconsin – now you see it ... <i>The Journal of the Torrey Society.</i> (In press).
-* <b> Bard, N.W.,</b> Miller, C.S., and L.P. Bruederle. 2021. High genomic diversity maintained by Carex scirpoidea subsp. convoluta, a paraphyletic Great Lakes ecotype. <i>Conservation Genetics.</i> (2021). https://doi.org/10.1007/s10592-020-01326-x 
+* <b>Bard, N.W.,</b> Davies, J.D., Cronk, Q.C.B. __teknonaturalist__: A Snakemake pipeline for assessing fungal diversity from plant genome bycatch. In press at <i>Molecular Ecology Resources</i> [teknonaturalist Github repository](https://github.com/nicholasbard/teknonaturalist)	
+* <b>Bard, N.W.,</b> Cronk, Q.C.B., Davies, J.D. Fungal endophytes can modulate plant invasion. <i>Biological Reviews.</i> (2024). [Link](https://doi.org/10.1111/brv.13085)
+* Bruederle, L.P.B., Spencer, A., <b>Bard, N.W.</b> Noteworthy collections – _Carex scirpoidea_ Lam. (Cyperaceae) in Wisconsin – now you see it ... <i>The Journal of the Torrey Society.</i> [Link](https://doi.org/10.3159/TORREY-D-24-00004.1)
+* <b> Bard, N.W.,</b> Miller, C.S., and L.P. Bruederle. 2021. High genomic diversity maintained by _Carex scirpoidea_ subsp. _convoluta_, a paraphyletic Great Lakes ecotype. <i>Conservation Genetics.</i> (2021). [Link](https://doi.org/10.1007/s10592-020-01326-x) 
 
-Submitted Manuscripts 
+Manuscripts in revision
 ------
-	
-* <b>Bard, N.W.,</b> Davies, J.D., Cronk, Q.C.B. teknonaturalist: A Snakemake pipeline for assessing fungal diversity from plant genome bycatch. Submitted to <i>Molecular Ecology Resources.</i> [teknonaturalist Github repository](https://github.com/nicholasbard/teknonaturalist)
-* Stewart, R.D., <b>Bard, N.W.</b>, Davies, T.J., van der Bank, Michelle. Leveraging machine learning and citizen science data to describe flowering phenology across South Africa. In revision for new submission to <i>Plants, People, Planet.</i>
+* Stewart, R.D., <b>Bard, N.W.</b>, Davies, T.J., van der Bank, Michelle. Leveraging machine learning and citizen science data to describe flowering phenology across South Africa. In revision at <i>Plants, People, Planet.</i> [Preprint](https://www.biorxiv.org/content/10.1101/2023.12.21.572952v1.abstract)
 
 Oral Presentations
 ======
+<b>Bard, N.W.,</b> Q.C. Cronk, T.J. Davies. 2024. The missing links: host plants and their fungal endophytes and pathogens. 
+*	Eco Evo Retreat, Nov 9, 2024, Squamish, BC, CAN (Oral - Blitz).
+*	Canadian Society for Ecology and Evolution, May 31, 2024, Vancouver, BC (Oral).
+  
+<b>Bard, N.W.,</b>, T.J. Davies, Q.C. Cronk. 2024. Fungal endophytes can modulate plant invasion.
+*	Botany Graduate Students Association Symposium, April 19, University of British Columbia, Vancouver, BC (Oral).
 
-<b>Bard, N.W.</b> 2022. Surveying fungal diversity: A genome mining approach. 
-*	Ecological Society of America/Canadian Society for Ecology and Evolution, August 16, Montréal, QC.
-*	Botany Graduate Students Association Symposium, April 22, University of British Columbia, Vancouver, BC.
+<b>Bard, N.W.,</b> T.J. Davies, Q.C. Cronk. Surveying fungal diversity: A genome mining approach. 
+*	Ecological Society of America/Canadian Society for Ecology and Evolution, August 16, 2022. Montréal, QC.
+*	Botany Graduate Students Association Symposium, April 22, 2022, University of British Columbia, Vancouver, BC.
+*	BC Chapter of Canadian Phytopathological Society, November 18, 2024, University of British Columbia, Vancouver, BC (Oral).
 
 <b>Bard, N.W.,</b> Miller, C.S., and L.P. Bruederle. 2020. Conservation genomics of <i>Carex scirpoidea</i> subsp. <i>convoluta.</i> 
 *	Botany, July 30, Virtual Conference.
@@ -76,9 +81,10 @@ Poster Presentations
 Professional Experience
 ======
 	
-* <b>2021-</b>	Graduate Teaching Assistant,	University of British Columbia
+* <b>2021-present </b>	Graduate Teaching Assistant,	University of British Columbia
   *	served as instructor for Fundamentals of Evolutionary Biology (BIOL 336) Tutorial and Seed Plant Taxonomy (BIOL 324) Lab
-  * led tutorials and labs, graded coursework, hosted office hours
+  *	led tutorials and labs, graded coursework, hosted office hours
+  *	led lecture while professor absent
 
 * <b>2020</b>	Field Technician,	National Ecological Observatory Network, Vancouver, WA
   *	created plant identification guide for Pacific Northwest region of USA (Domain 16)
@@ -124,14 +130,23 @@ Professional Experience
 Skills
 ======
 
-Biological data analysis, bioinformatics, and statistical and ecological modeling (Linux/Unix, R, Python); ecological fieldwork and sampling; plant taxonomy and identification; molecular biology benchwork; scientific research, grant, and protocol-writing; science education; professional presentations; habitat restoration; aseptic technique; some Spanish.
+Biological data analysis, bioinformatics, and biodiversity informatics (see Programming); statistical and ecological modeling, database querying, ecological fieldwork and sampling, plant taxonomy and identification, science education, scientific communication, herbarium techniques, molecular biology benchwork, grant writing, scientific protocol development, habitat restoration, website building, aseptic technique, basic Spanish and French (CEFR A2).
+
+Programming
+======
+
+__R__, incl. dplyr, ape, adegenet, pegas, vegan, rgbif, ggplot2, etc.<br>
+__Python__, <br>
+__Snakemake__, <br>
+__shell/Perl__, incl. Megahit, Metavelvet, Stacks, dDocent, Structure, RAxML, Trinity, Kraken, ITSx, ipyRAD, Arlequin etc. <br>
+__[Github](https://github.com/nicholasbard)__, <br>
+__Docker__, <br>
+__GUI__, incl. jModelTest2, Genodive, Wordpress. <br>
 
 Peer Review
 ======
 	
-* <b>09/2020</b> (assisted L.P. Bruederle)	Journal of Systematics and Evolution
-* <b>10/2020</b>	Journal of Systematics and Evolution
-* <b>01/2023</b> 	PhytoKeys
+Journal of Systematics and Evolution (2020), PhytoKeys (2023), Brazilian Journal of Microbiology (2024), Molecular Ecology (2024)
 
 Service 
 ======
@@ -150,5 +165,5 @@ Service
 Professional Memberships
 ------
 	
-Canadian Society for Ecology and Evolution (2024- ), International Biogeography Society (2023- ), Botanical Society of America (2016-2020), American Society of Plant Taxonomists (2016-2017), Colorado Native Plant Society (2015-2017), Ecological Society of America (2022- )
+Canadian Phytopathological Society (2024-), Canadian Society for Ecology and Evolution (2024- ), International Biogeography Society (2023- ), Botanical Society of America (2016-2020), American Society of Plant Taxonomists (2016-2017), Colorado Native Plant Society (2015-2017), Ecological Society of America (2022- )
 
