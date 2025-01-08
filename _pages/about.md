@@ -46,3 +46,4 @@ Other activities
 ------
 I work with the [UBC BotZoo Wellness Initiative](https://wellness-initiative.wixsite.com/wellness-initiative) to promote mental and physical well-being among graduate students.
 <a></a>
+![alt text](https://nicholasbard.github.io/publications/images/IMG_0322.png)
