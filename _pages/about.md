@@ -13,9 +13,8 @@ Ph.D. research: Predicting plant-fungal links with DNA and data mining
 I am a PhD candidate in the Botany Dept at University of British Columbia Biodiversity Research Centre, co-supervised by T. Jonathan Davies and Quentin C.B. Cronk. I am currently interested in developing and applying computational tools to study the diversity of fungal endophytes and pathogens, their plant host breadth, and their role in non-native plant colonization.
 
 <b>Papers</b><br>
-<i>First author publications</i>:<br>
-1. [Fungal endophytes can modulate plant invasion](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13085) (<i>Biological Reviews</i>, 2024)
-
+<i>First author publications</i>:
+1. [Fungal endophytes can modulate plant invasion](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13085) (<i>Biological Reviews</i>, 2024)<br>
 2. [Teknonaturalist: A Snakemake Pipeline for Assessing Fungal Diversity From Plant Genome Bycatch](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.14056) (<i>Molecular Ecology Resources</i>, 2024) 
 
 <i>Not first author</i>:
