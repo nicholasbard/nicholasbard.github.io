@@ -6,8 +6,6 @@
      # - title: "Guide"
     # url: /markdown/
 main:
-  - title: "Publications"
-    url: /publications/
 
   - title: "Code"
     url: "https://github.com/nicholasbard"
